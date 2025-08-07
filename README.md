@@ -6,7 +6,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>- 📖 First year of university at UNLP!
-<p>- 🌱 I’m currently learning the Architect of Computers with Intel 8088 (Intel Assembler) and Data Structures in pascal.
+<p>- 🌱 I’m currently learning the Architect of Computers and Data Structures in pascal.
      
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
