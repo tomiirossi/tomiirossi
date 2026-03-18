@@ -6,7 +6,9 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>- 📖 Second year of university at UNLP!
-<p>- 🌱 I’m currently learning the Architect of Computers and Data Structures in pascal.
+<p>- 🌱 I’m currently learning Algorithms and .NET.
+
+<p>Great performance in Notion with Formulas 2.0</p>
      
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
