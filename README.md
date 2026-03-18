@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=17&duration=3000&lines=University+Student;Eye+To+Be+a+Future+Microsoft+Engineer;Focused+on+systems+and+infrastructure" >
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>- 📖 First year of university at UNLP!
+<p>- 📖 Second year of university at UNLP!
 <p>- 🌱 I’m currently learning the Architect of Computers and Data Structures in pascal.
      
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
